@@ -1,18 +1,27 @@
-Introduction
-This project is a locally hosted AI chatbot powered by Phi-3.5 Mini, a compact yet powerful language model developed by Microsoft. Despite its small size, Phi-3.5 Mini demonstrates surprisingly strong performance on reasoning, conversation, and instruction-following tasks—making it an ideal choice for responsive, always-on, and resource-efficient applications.
+# AI Chatbot – Locally Hosted Companion
 
-The chatbot is designed not merely as a question-answering tool, but as a personal companion—an intelligent, emotionally aware presence capable of engaging in natural conversations across a variety of everyday situations. Whether you're looking for casual banter, thoughtful reflection, or practical help, this chatbot adapts dynamically to context, tone, and intent.
+## Introduction
 
-Key Capabilities
-💬 Conversational Awareness: Built to simulate fluid, multi-turn dialogues—offering a more human-like interaction.
+This project is a **locally hosted AI chatbot** powered by **Phi-3.5 Mini**, a compact yet powerful language model developed by Microsoft. Despite its small size, Phi-3.5 Mini demonstrates **strong performance** in reasoning, conversation, and instruction-following tasks—making it an ideal choice for responsive, always-on, and resource-efficient AI applications.
 
-📚 Retrieval-Augmented Generation (RAG): Integrates a Vector Database to reference your own document collections or datasets, enhancing factual grounding.
+The chatbot is designed not just as a tool, but as a **personal companion**—an intelligent, emotionally aware presence that can engage in natural conversations across a variety of everyday scenarios. Whether you’re looking for casual chat, thoughtful reflection, or practical help, this chatbot adapts dynamically to tone, intent, and context.
 
-🌐 Live Data Injection: Enriches replies with up-to-date information from web sources, system data, or APIs.
+## Key Capabilities
 
-🧠 Phi-3.5 Mini: A 1.8B parameter open-weight model that rivals larger LLMs in quality, with low compute requirements and fast response time—perfect for local deployment.
+- 💬 **Conversational Awareness**: Simulates fluid, multi-turn dialogue for human-like interactions.
+- 📚 **Retrieval-Augmented Generation (RAG)**: Uses a **Vector Database** to reference custom documents and contextually enrich responses.
+- 🌐 **Live Data Injection**: Dynamically pulls in real-time data from APIs or local sources to ensure fresh and accurate replies.
+- 🧠 **Phi-3.5 Mini**:
+  - 1.8B parameter open-weight model from Microsoft
+  - Efficient and instruction-tuned
+  - Strong performance on reasoning, math, and everyday queries
+  - Runs smoothly on consumer-grade hardware
+- 🤖 **Always-Active Presence**: Acts like a room-aware friend—always available to talk, assist, or just be there.
 
-🤖 Always-Active Presence: Designed to act like a room-aware friend or personal assistant that’s always available, not just a tool you call upon.
+## Why Phi-3.5 Mini?
 
-Why Phi-3.5 Mini?
-Microsoft’s Phi series represents a new class of small, instruction-tuned transformer models, optimized for reasoning, math, code, and general conversation. Phi-3.5 Mini strikes an ideal balance between performance and efficiency, running smoothly on consumer-grade hardware while still delivering quality comparable to models several times larger. This makes it perfect for applications that value privacy, low latency, and offline availability.
+The **Phi** series by Microsoft introduces a new class of **small, instruction-tuned language models** optimized for general-purpose intelligence tasks. Phi-3.5 Mini delivers quality comparable to much larger models, yet requires **minimal system resources**. This makes it perfect for **offline, private, and low-latency** deployments where cloud dependency is not desirable.
+
+---
+
+This chatbot offers an evolving foundation for building secure, intelligent, and always-on conversational systems tailored to your own environment.
